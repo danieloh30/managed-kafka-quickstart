@@ -1,0 +1,1 @@
+# managed-kafka-quickstart
